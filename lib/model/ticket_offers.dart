@@ -73,14 +73,5 @@ List<TicketOffer> ticketsOffersFromJson(Map<String, dynamic> json) {
 }
 
 
-  // List<TicketOffer> ticketOffers = ticketsOffersFromJson(jsonData);
+  
 
-  // Accessing the data
-//   ticketOffers.forEach((offer) {
-//     print('ID: ${offer.id}');
-//     print('Title: ${offer.title}');
-//     print('Time Range: ${offer.timeRange}');
-//     print('Price: ${offer.price.value}');
-//     print('---------------');
-//   });
-// }
